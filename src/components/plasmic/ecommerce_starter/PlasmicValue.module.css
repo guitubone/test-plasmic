@@ -1,0 +1,193 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  padding: 12px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 16px);
+  width: calc(100% + 16px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 16px;
+}
+.root__topBottom {
+  display: flex;
+  flex-direction: column;
+}
+.root__topBottom > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.root__topBottom > :global(.__wab_flex-container) > *,
+.root__topBottom > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root__topBottom > :global(.__wab_flex-container) > picture > img,
+.root__topBottom
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+  margin-top: 12px;
+}
+.root__center > :global(.__wab_flex-container) {
+  align-items: center;
+}
+.freeBox__lt4M3 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding: 4px;
+}
+.freeBox__topBottom__lt4M30D0C7 {
+  padding: 0px;
+}
+.freeBox___7Meoz {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.svg__dSYg {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__hcqQe {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__hcqQe > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 4px);
+  height: calc(100% + 4px);
+}
+.freeBox__hcqQe > :global(.__wab_flex-container) > *,
+.freeBox__hcqQe > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__hcqQe > :global(.__wab_flex-container) > picture > img,
+.freeBox__hcqQe
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 4px;
+}
+.freeBox__center__hcqQexOKx > :global(.__wab_flex-container) {
+  align-items: center;
+}
+.slotTargetChildren__center {
+  text-align: center;
+}
+.text___0P8ZF {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  color: #ffffff;
+  width: 100%;
+  min-width: 0;
+}
+.text__ldYgr {
+  color: #cccccc;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__upzsB {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__upzsB > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 4px);
+  height: calc(100% + 4px);
+}
+.freeBox__upzsB > :global(.__wab_flex-container) > *,
+.freeBox__upzsB > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__upzsB > :global(.__wab_flex-container) > picture > img,
+.freeBox__upzsB
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 4px;
+}
+.freeBox__center__upzsBxOKx > :global(.__wab_flex-container) {
+  align-items: center;
+}
+.slotTargetChildren2__center {
+  text-align: center;
+}
+.button__ulsHr:global(.__wab_instance) {
+  position: relative;
+}
+.svg__iwDua {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__uid11 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__mAw8C {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__vQhOh {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__m7Tz {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg__nuwWr {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
